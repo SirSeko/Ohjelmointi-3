@@ -1,2 +1,2 @@
 # Ohjelmointi-3
-Ohjelmointi 3 kurssin tehtävät
+Ohjelmointi 3-kurssin tehtävät
